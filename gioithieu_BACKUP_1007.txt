@@ -2,4 +2,8 @@ Dự án GitHub đầu tiên.
 Xin chào các bạn.
 Đã thêm thông tin 
 
+<<<<<<< HEAD
+main them
+=======
 
+>>>>>>> dev1
